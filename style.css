@@ -1,0 +1,15 @@
+*{
+    max-width: 300px;
+}
+    li{
+    display: block;
+    }
+img{
+    width: 100%;
+}
+.ddddd{
+    display: flex;
+}
+.dd{
+    width: 300px;
+}
